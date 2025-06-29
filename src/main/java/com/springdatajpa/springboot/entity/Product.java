@@ -3,8 +3,7 @@ package com.springdatajpa.springboot.entity;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
-
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
@@ -14,12 +13,6 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-
-//@NamedQuery(
-//        name = "Product.findByPrice",
-//        query = "SELECT p from Product p where p.price = :price"
-//)
-
 @NamedQueries(
         {
                 @NamedQuery(
@@ -32,13 +25,6 @@ import java.time.LocalDateTime;
                 )
         }
 )
-
-//@NamedNativeQuery(
-//        name = "Product.findByDescription",
-//        query = "select * from products p where p.description = :description",
-//        resultClass = Product.class
-//)
-
 @NamedNativeQueries(
         {
                 @NamedNativeQuery(

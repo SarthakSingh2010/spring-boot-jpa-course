@@ -1,0 +1,12 @@
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\JPQLQueriesTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\ManyToManyUnidirectionalTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\NamedQueriesTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\NativeSQLQueriesTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\OneToManyMappingTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\OneToOneBidirectionalMappingTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\OneToOneUnidirectionalMappingTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\PaginationAndSortingTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\ProductCategoryRepositoryTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\ProductRepositoryTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\repository\QueryMethodsTest.java
+D:\Java Guides\spring-boot-jpa-course\src\test\java\com\springdatajpa\springboot\SpringDataJpaCourseApplicationTests.java

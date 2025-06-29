@@ -1,0 +1,14 @@
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\Address.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\Order.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\OrderItem.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\Product.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\ProductCategory.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\Role.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\entity\User.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\AddressRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\OrderRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\ProductCategoryRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\ProductRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\RoleRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\repository\UserRepository.java
+D:\Java Guides\spring-boot-jpa-course\src\main\java\com\springdatajpa\springboot\SpringDataJpaCourseApplication.java
